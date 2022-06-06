@@ -1,0 +1,62 @@
+body {
+  background-color: hsl(0, 0%, 95%);
+  font-family: "Lexend Deca", sans-serif;
+}
+
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  font-size: 32px;
+  font-weight: 700;
+  color: hsl(0, 0%, 95%);
+}
+body {
+  display: flex;
+  height: 100%;
+}
+main {
+  height: 100vh;
+  flex: 1;
+  display: flex;
+  padding: 1.5em;
+  max-width: 375px;
+  width: 100%;
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+  font-size: 15px;
+  font-weight: 400;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.sedans {
+  flex: 1;
+  background-color: hsl(31, 77%, 52%);
+}
+.suvs {
+  flex: 1;
+  background-color: hsl(184, 100%, 22%);
+}
+.luxury {
+  flex: 1;
+  background-color: hsl(179, 100%, 13%);
+}
+.positions {
+  padding: 2.5em;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 0;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  text-align: center;
+  color: rgb(00, 00, 00);
+  padding: 40px 0;
+  font-size: 11px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
