@@ -17,10 +17,13 @@ h1 {
 }
 
 main {
-  height: 100vh;
-  flex: 1;
   display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
   width: 100%;
+  height: 100vh;
 }
 .cards {
   display: flex;
@@ -99,7 +102,7 @@ footer {
   color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 821px) {
+@media (min-width: 768px) {
   body {
     max-width: 1440px;
   }
@@ -110,9 +113,14 @@ footer {
   }
   .sedans {
     border-radius: 10px 0 0 10px;
+    width: 33%;
+  }
+  .suvs {
+    width: 33%;
   }
   .luxury {
     border-radius: 0 10px 10px 0;
+    width: 33%;
   }
   button:hover {
     color: hsl(0, 0%, 95%);
