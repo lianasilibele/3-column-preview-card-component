@@ -55,4 +55,4 @@ Vejo que preciso melhorar a semântica no meu HTML, utilizando os elementos corr
 
 ## Agradecimentos
 
-Gostaria de agradecer ao Natanael de Paulo (https://github.com/Natanael-de-Paulo), que me ajudou a dar o "start" no CSS desses projeto, me dando dicas sobre Flexbox e posicionamento, em geral, e ao Giuseppe Varriale (https://github.com/GiuseppeVarriale) por ter me explicado e ajudado como media query.
+Gostaria de agradecer ao Natanael de Paulo [@Natanael-de-Paulo](https://github.com/Natanael-de-Paulo), que me ajudou a dar o "start" no CSS desse projeto, me dando dicas sobre Flexbox e posicionamento em geral, e ao Giuseppe Varriale [@GiuseppeVarriale](https://github.com/GiuseppeVarriale) por ter me explicado e ajudado como media query.
