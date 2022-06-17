@@ -83,18 +83,12 @@ button {
 
 footer {
   display: flex;
-  flex: 0em;
   bottom: 0;
-  margin-bottom: 0;
   width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0 auto;
   justify-content: center;
   text-align: center;
   color: rgb(00, 00, 00);
-  padding: 0;
   font-size: 11px;
 }
 
